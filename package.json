@@ -1,0 +1,18 @@
+{
+  "name": "alkanconsulting",
+  "version": "1.0.0",
+  "description": "alkanconsulting_project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js" 
+  },
+  "author": "Orkhan Kazim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
